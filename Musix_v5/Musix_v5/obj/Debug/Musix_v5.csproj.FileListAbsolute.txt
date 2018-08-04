@@ -1,0 +1,52 @@
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.pdb
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csprojResolveAssemblyReference.cache
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Form1.resources
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Properties.Resources.resources
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.GenerateResource.Cache
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.CoreCompileInputs.cache
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.pdb
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\CSCore.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\CSCore.xml
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.ResolveComReference.cache
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\MACTrackBarLib.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\taglib-sharp.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Settings.resources
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.exe.config
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.exe
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.exe
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Loader.resources
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.CopyComplete
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\FlatUI.dll
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\bin\Debug\FlatUI.pdb
+C:\Users\Vishnu Rajendran\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.SimpleForm.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.exe.config
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.exe
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\Musix_v5.pdb
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\CSCore.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\taglib-sharp.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\CSCore.xml
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\FlatUI.pdb
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\Interop.WMPLib.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csprojAssemblyReference.cache
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Interop.WMPLib.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.ResolveComReference.cache
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Form1.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Loader.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Properties.Resources.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.Settings.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.SimpleForm.resources
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.GenerateResource.cache
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.CoreCompileInputs.cache
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.csproj.CopyComplete
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.exe
+C:\Users\ssj5v\source\repos\Musix_v5\Musix_v5\obj\Debug\Musix_v5.pdb
